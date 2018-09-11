@@ -1,0 +1,52 @@
+  .logos {
+    padding-top: 60px;
+  }
+
+  .navbar {
+    font-family: Montserrat, sans-serif;
+    background-color: white;
+    border: 0;
+    width: 100% !important;
+    font-size: 11px !important;
+    letter-spacing: 3px;
+    opacity: 0.9;
+
+
+    
+
+  border-radius: 0;
+  margin-bottom: 0%;
+  margin-right: 0%;
+  padding-right: 0%;
+  }
+  .navbar-header {
+  margin-top: 0px;
+  margin-bottom: 0%;
+  margin-right: 0%;
+}
+  .navbar li a, .navbar .navbar-brand { 
+    color: black !important;
+
+  }
+  .navbar-nav li a:hover {
+    color: black !important;
+  }
+  .navbar-nav li.active a {
+    color: black !important;
+    background-color: black !important;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #ffbf00;
+  }
+  .open .dropdown-toggle {
+    color: black;
+    background-color: #ffbf00 !important;
+  }
+  .dropdown-menu li a {
+    background-color: #ffbf00;
+    color: black !important;
+  }
+  .dropdown-menu li a:hover {
+    background-color: #ffbf00 !important;
+  }
