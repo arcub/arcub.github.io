@@ -17,11 +17,10 @@ bindNavigation +=        "<li><a href='http://students.aberrobotics.club/project
 bindNavigation +=        "<li class='dropdown'>";
 bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' href='#'>EVENTS";
 bindNavigation +=         "<span class='caret'></span></a>";
-bindNavigation +=          "<!--<ul class='dropdown-menu'>";
-bindNavigation +=            "<li><a href='http://students.aberrobotics.club/freshers'>FRESHERS FAIR</a></li>";
-bindNavigation +=			 "<li><div class='divider'></li>";
+bindNavigation +=          "<ul class='dropdown-menu'>";
 bindNavigation +=            "<li><a href='http://students.aberrobotics.club/welcome'>WELCOME WORKSHOP</a></li>";
-bindNavigation +=          "</ul>-->";
+bindNavigation +=			 "<li><div class='divider'></li>";
+bindNavigation +=          "</ul>";
 bindNavigation +=        "</li>";
 bindNavigation +=        "<li class='dropdown'>";
 bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' href='#'>PROJECTS 2018";
