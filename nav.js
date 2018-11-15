@@ -27,6 +27,8 @@ bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' hr
 bindNavigation +=          "<span class='caret'></span></a>";
 bindNavigation +=          "<ul class='dropdown-menu'>";
 bindNavigation +=            "<li><a href='http://students.aberrobotics.club/github'>VISIT GITHUB</a></li>";
+bindNavigation +=			 "<li><div class='divider'></li>";
+bindNavigation +=			 "<li><a href='http://students.aberrobotics.club/magician-chassis'>Magician Chassis</a></li>";
 bindNavigation +=          "</ul>";
 bindNavigation +=        "</li>";
 bindNavigation +=        "<li><a href='http://students.aberrobotics.club/shop'>SHOP</a></li>";
