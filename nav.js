@@ -19,6 +19,7 @@ bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' hr
 bindNavigation +=         "<span class='caret'></span></a>";
 bindNavigation +=          "<ul class='dropdown-menu'>";
 bindNavigation +=            "<li><a href='http://students.aberrobotics.club/welcome'>WELCOME WORKSHOP</a></li>";
+bindNavigation +=            "<li><a href='http://students.aberrobotics.club/scienceweek'>SCIENCE WEEK</a></li>";
 bindNavigation +=			 "<li><div class='divider'></li>";
 bindNavigation +=          "</ul>";
 bindNavigation +=        "</li>";
