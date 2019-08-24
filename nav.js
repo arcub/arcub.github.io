@@ -13,7 +13,7 @@ bindNavigation +=    "</div>";
 bindNavigation +=    "<div class='collapse navbar-collapse' id='myNavbar'>";
 bindNavigation +=      "<ul class='nav navbar-nav navbar-right'>";
 bindNavigation +=        "<li><a href='http://students.aberrobotics.club/'>HOME</a></li>";
-bindNavigation +=        "<li><a href='http://students.aberrobotics.club/committee'>COMMITTEE</a></li>";
+//bindNavigation +=        "<li><a href='http://students.aberrobotics.club/committee'>COMMITTEE</a></li>";
 bindNavigation +=        "<li><a href='http://students.aberrobotics.club/projects'>PROJECTS</a></li>";
 bindNavigation +=        "<li class='dropdown'>";
 bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' href='#'>EVENTS";
