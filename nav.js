@@ -21,6 +21,7 @@ bindNavigation +=         "<span class='caret'></span></a>";
 bindNavigation +=          "<ul class='dropdown-menu'>";
 bindNavigation +=            "<li><a href='http://students.aberrobotics.club/welcome'>WELCOME WORKSHOP</a></li>";
 bindNavigation +=			 "<li><div class='divider'></li>";
+bindNavigation +=	     "<li><a href='http://students.aberrobotics.club/ort2020'>OLYPMUS ROVER TRIALS</a></li>";
 bindNavigation +=          "</ul>";
 bindNavigation +=        "</li>";
 bindNavigation +=        "<li class='dropdown'>";
