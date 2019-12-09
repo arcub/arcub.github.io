@@ -25,7 +25,7 @@ bindNavigation +=            "<li><a href='https://aberrobotics.club/show-tell'>
 bindNavigation +=          "</ul>";
 bindNavigation +=        "</li>";
 bindNavigation +=        "<li class='dropdown'>";
-bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' href='#'>PROJECTS 2018";
+bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' href='#'>PROJECTS 2019/20";
 bindNavigation +=          "<span class='caret'></span></a>";
 bindNavigation +=          "<ul class='dropdown-menu'>";
 bindNavigation +=            "<li><a href='http://students.aberrobotics.club/github'>VISIT GITHUB</a></li>";
