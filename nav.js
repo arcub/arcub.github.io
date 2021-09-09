@@ -19,7 +19,7 @@ bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' hr
 bindNavigation +=         "<span class='caret'></span></a>";
 bindNavigation +=          "<ul class='dropdown-menu'>";
 //bindNavigation +=            "<li>EVENTS COMING SOON</li>";
-bindNavigation +=            "<li><a href='https://freshers.aberrobotics.club/'>FRESHERS WEEK</a></li>";
+bindNavigation +=            "<li><a href='https://students.aberrobotics.club/freshers'>FRESHERS WEEK</a></li>";
 //bindNavigation +=			 "<li><div class='divider'></li>";
 //bindNavigation +=            "<li><a href='https://students.aberrobotics.club/scienceweek'>SCIENCE WEEK</a></li>";
 bindNavigation +=          "</ul>";
