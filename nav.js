@@ -25,14 +25,14 @@ bindNavigation +=            "<li><a href='https://students.aberrobotics.club/fr
 bindNavigation +=          "</ul>";
 bindNavigation +=        "</li>";
 bindNavigation +=        "<li class='dropdown'>";
-bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' href='#'>PROJECTS 2020/21";
+bindNavigation +=          "<a class='dropdown-toggle' data-toggle='dropdown' href='#'>PROJECTS 2021/22";
 bindNavigation +=          "<span class='caret'></span></a>";
 bindNavigation +=          "<ul class='dropdown-menu'>";
 bindNavigation +=        "<li><a href='https://students.aberrobotics.club/projects'>PROJECTS LIST</a></li>";
 bindNavigation +=			 "<li><div class='divider'></li>";
 bindNavigation +=            "<li><a href='https://students.aberrobotics.club/github'>VISIT GITHUB</a></li>";
-//bindNavigation +=			 "<li><a href='https://students.aberrobotics.club/magician-chassis'>MAGICIAN CHASSIS</a></li>";
-//bindNavigation +=	     "<li><a href='https://students.aberrobotics.club/sumo'>SUMO</a></li>";
+bindNavigation +=			 "<li><a href='https://students.aberrobotics.club/magician-chassis'>MAGICIAN CHASSIS</a></li>";
+bindNavigation +=	     "<li><a href='https://students.aberrobotics.club/sumo'>SUMO</a></li>";
 //bindNavigation +=	     "<li><a href='https://students.aberrobotics.club/ort2020'>OLYPMUS ROVER TRIALS</a></li>";
 bindNavigation +=          "</ul>";
 bindNavigation +=        "</li>";
