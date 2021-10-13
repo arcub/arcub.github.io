@@ -31,7 +31,7 @@ bindNavigation +=          "<ul class='dropdown-menu'>";
 bindNavigation +=        "<li><a href='https://students.aberrobotics.club/projects'>PROJECTS LIST</a></li>";
 bindNavigation +=			 "<li><div class='divider'></li>";
 bindNavigation +=            "<li><a href='https://students.aberrobotics.club/github'>VISIT GITHUB</a></li>";
-bindNavigation +=			 "<li><a href='https://students.aberrobotics.club/magician-chassis'>MAGICIAN CHASSIS</a></li>";
+bindNavigation +=			 "<li><a href='https://github.com/arcub/magician-chassis'>MAGICIAN CHASSIS</a></li>";
 bindNavigation +=	     "<li><a href='https://students.aberrobotics.club/sumo'>SUMO</a></li>";
 //bindNavigation +=	     "<li><a href='https://students.aberrobotics.club/ort2020'>OLYPMUS ROVER TRIALS</a></li>";
 bindNavigation +=          "</ul>";
